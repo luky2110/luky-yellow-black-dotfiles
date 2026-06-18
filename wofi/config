@@ -1,0 +1,8 @@
+width=700
+height=540
+mode = drun
+location = center
+allow_images = true
+gtk_dark=true
+prompt = Search...
+insensitive=true
