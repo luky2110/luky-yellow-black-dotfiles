@@ -27,7 +27,7 @@ hyprshutdown
 
 Arch
 ```
-sudo pacman -S loupe vlc mpv mpv-mpris file-roller
+sudo pacman -S loupe vlc mpv mpv-mpris file-roller 
 ```
 
 # Examples
