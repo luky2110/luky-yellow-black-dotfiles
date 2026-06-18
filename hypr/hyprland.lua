@@ -1,4 +1,4 @@
---Written by Luky
+--Creator: Luky
 --Created: 03.06.2026
 --Migrated to lua: 13.06.2026
 --Updated: 18.06.2026
