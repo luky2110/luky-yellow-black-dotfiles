@@ -5,7 +5,7 @@ If you do not like them, change or do not use them.
 
 Arch
 ```
-sudo pacman -S git qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland xdg-desktop-portal-hyprland hyprpaper alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol ttf-jetbrains-mono-nerd hyprpolkitagent grimshot hyprcursor hyprshutdown
+sudo pacman -S git qt5ct qt6ct qt5-wayland qt6-wayland nwg-look hyprland xdg-desktop-portal-hyprland hyprpaper alacritty wofi waybar thunar thunar-volman gvfs udisks2 pavucontrol ttf-jetbrains-mono-nerd hyprpolkitagent grimblast hyprcursor hyprshutdown
 ```
 ```
 systemctl --user enable --now hyprpolkitagent.service
