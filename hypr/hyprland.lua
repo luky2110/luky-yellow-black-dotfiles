@@ -86,7 +86,7 @@ hl.bind(mod .. " + E", hl.dsp.exec_cmd(files))
 hl.bind(mod .. " + SPACE", hl.dsp.exec_cmd(appmenu))
 hl.bind(mod .. " + B", hl.dsp.exec_cmd(browser))
 hl.bind(mod .. " + S", hl.dsp.exec_cmd(screenshot))
-hl.bind(mod .. " + PRINT", hl.dsp.exec_cmd(screenshot))
+hl.bind("PRINT", hl.dsp.exec_cmd(screenshot))
 hl.bind(mod .. " + P", hl.dsp.exec_cmd("hyprpicker"))
 
 --Window Management
